@@ -1,0 +1,6 @@
+# ⚠️ no subir a GitHub ⚠️
+
+VPN_USER=n3cr0scr1pt
+VPN_PASS=fr0ntD00r_4dm1n
+
+TOKEN=ghp_exampleleaktoken1337
